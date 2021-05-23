@@ -1,5 +1,5 @@
 # Hi, what's up?!
-- I'm an engeneering student at UFPE, putting my projects and studies in this repository, trying to make some applications and games :sweat_smile: . 
+- I'm an engeneering student at UFPE, putting my projects and studies in this repository, trying to make some applications and games :sweat_smile:. 
 
 ![matheus-baraujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-baraujo&show_icons=true&theme=merko)
 
