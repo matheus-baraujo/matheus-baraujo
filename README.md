@@ -4,5 +4,5 @@
 
 ![matheus-baraujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-baraujo&count_private=true&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-baraujo&layout=compact&theme=merko)](https://github.com/matheus-baraujo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-baraujo&count_private=true&layout=compact&theme=merko)](https://github.com/matheus-baraujo/github-readme-stats)
 
