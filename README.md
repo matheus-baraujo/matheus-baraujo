@@ -11,6 +11,7 @@
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-baraujo&count_private=true&layout=compact&theme=merko)](https://github.com/matheus-baraujo/github-readme-stats)
 
