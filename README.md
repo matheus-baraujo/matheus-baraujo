@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/matheus-batista-de-araújo-0402621b3/) 
 
 ![matheus-baraujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-baraujo&count_private=true&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-baraujo&count_private=true&layout=compact&theme=merko)](https://github.com/matheus-baraujo/github-readme-stats)
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
@@ -16,5 +17,3 @@
 ![NODEJS](https://img.shields.io/badge/Nodejs-000?style=for-the-badge&logo=nodejs)
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-baraujo&count_private=true&layout=compact&theme=merko)](https://github.com/matheus-baraujo/github-readme-stats)
-
