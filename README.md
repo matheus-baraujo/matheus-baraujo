@@ -18,14 +18,14 @@
 </div>
 <div style="display: inline_block"><br>
     <h2>Tecnologias</h2>
-    ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-    ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-    ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-    ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-    ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
-    ![NPM](https://img.shields.io/badge/NPM-000?style=for-the-badge&logo=npm)
-    ![NODEJS](https://img.shields.io/badge/Nodejs-000?style=for-the-badge&logo=nodejs)
 </div>
-<br>
-<br>
+      
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
+![NPM](https://img.shields.io/badge/NPM-000?style=for-the-badge&logo=npm)
+![NODEJS](https://img.shields.io/badge/Nodejs-000?style=for-the-badge&logo=nodejs)
+
